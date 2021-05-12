@@ -1,0 +1,15 @@
+.b-icon{
+  font-size: 4rem;
+  &--big{
+    font-size: 10rem;
+  }
+  &--mid{
+    font-size: 6rem;
+  }
+  &--max{
+    font-size: 15rem;
+  }
+  &--sec{
+    color: #333;
+  }
+}
